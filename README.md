@@ -18,6 +18,7 @@ It is a **responsive image gallery web application** that allows users to view i
 
 ## 🚀 Live Demo
   
+🔗 [View Live Project](https://neha-rawat-tech.github.io/ImageGallery_CodeAlpha/)
 
 
 ---
